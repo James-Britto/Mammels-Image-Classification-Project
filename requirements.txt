@@ -16,4 +16,4 @@ tensorflow==2.10.0
 tensorflow-estimator==2.10.0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-model-optimization==0.7.5
-Werkzeug==3.0.1
+Werkzeug==2.2.3
