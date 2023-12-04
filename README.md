@@ -30,7 +30,7 @@ Addressed challenges related to model overfitting through augmentation technique
 - Transfer Learning (Pre-trained Models)
 
 **Results:**
-Successfully created a high-performing CNN model achieving a 90% accuracy rate on mammal image classification, demonstrating the efficacy of the transfer learning approach.
+Successfully created a high-performing CNN model achieving a 95% accuracy rate on mammal image classification, demonstrating the efficacy of the transfer learning approach.
 
 **Future Enhancements:**
 Explore ensemble methods, hyperparameter tuning, and additional data augmentation techniques to further refine and elevate model performance.
