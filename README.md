@@ -6,7 +6,7 @@
 Develop and optimize a Convolutional Neural Network (CNN) for accurate classification of mammal images. Utilize transfer learning techniques with pre-trained models to achieve a minimum accuracy of 90%.
 
 **Project Overview:**
-Designed a robust CNN architecture for image classification, incorporating transfer learning from pre-trained models to enhance performance on mammal images. Executed comprehensive evaluation procedures, culminating in a noteworthy 90% accuracy.
+Designed a robust CNN architecture for image classification, incorporating transfer learning from pre-trained models to enhance performance on mammal images. Executed comprehensive evaluation procedures, culminating in a noteworthy 95% accuracy.
 
 **Key Components:**
 1. **CNN Architecture:** Engineered a tailored CNN structure optimized for mammal image features.
